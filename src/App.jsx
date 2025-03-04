@@ -43,7 +43,7 @@ function App() {
         </div>
 
         <div className="chart-2  max-4-xl rounded p-6 border-2 border-gray-600">
-          <h3 className="text-sm font-bold">Chart No 2</h3>
+          <h3 className="text-sm font-bold">Chart No 22</h3>
           <div className="h-80 chart mt-10">
             <Doughnut
               data={{
